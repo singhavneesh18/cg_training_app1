@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "E001",
+      "fname": "Sujit",
+      "lname": "Kapoor",
+      "salary": "Rs.19000",
+      "expirience": "2 years"
+    },
+    {
+      "id": "E002",
+      "fname": "Dinesh",
+      "lname": "Chaohan",
+      "salary": "Rs.5000",
+      "expirience": "2.5 years"
+    },
+    {
+      "id": "E020",
+      "fname": "Vishal",
+      "lname": "Arjuna",
+      "salary": "Rs.9000",
+      "expirience": "1 years"
+    },
+    {
+      "id": "E018",
+      "fname": "Tushar",
+      "lname": "Shah",
+      "salary": "Rs.11000",
+      "expirience": "2 years"
+    },
+    {
+      "id": "E003",
+      "fname": "Nitin",
+      "lname": "Kulkarni",
+      "salary": "Rs.23000",
+      "expirience": "8 years"
+    },
+    {
+      "id": "E015",
+      "fname": "Yogesh",
+      "lname": "Joshi",
+      "salary": "Rs.14000",
+      "expirience": "5 years"
+    },
+    {
+      "id": "E017",
+      "fname": "Kapil",
+      "lname": "Patel",
+      "salary": "Rs.11000",
+      "expirience": "1 years"
+    }
+  ],
+  "testData": [
+    {
+      "id": 1,
+      "name": "Avneesh"
+    },
+    {
+      "id": 2,
+      "name": "Avneesh"
+    },
+    {
+      "id": 3,
+      "name": "Avneesh"
+    },
+    {
+      "id": 4,
+      "name": "Avneesh"
+    }
+  ]
+}

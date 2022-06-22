@@ -1,0 +1,22 @@
+{
+  "name": "cg_training_app1",
+  "version": "1.0.0",
+  "description": "This apps shows how to use axios &amp; json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhavneesh18/cg_training_app1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhavneesh18/cg_training_app1/issues"
+  },
+  "homepage": "https://github.com/singhavneesh18/cg_training_app1#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
